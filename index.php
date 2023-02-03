@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Linux Dağıtımı</title>
+  <title>QuemOS</title>
 </head>
 <body>
   <header>
-    <h1>Linux Dağıtımı</h1>
+  <link rel="shortcut icon" href="logo.ico">
+    <h1>QuemOS</h1>
   </header>
   <nav>
     <ul>
@@ -17,7 +18,10 @@
   <main>
     <section id="overview">
       <h2>Genel Bakış</h2>
-      <p>Linux dağıtımı, açık kaynaklı bir işletim sistemi olarak tasarlandı ve kullanıcılarına özelleştirme, güncelleme ve kurulum gibi çok sayıda fonksiyon sunar.</p>
+      <p>QuemOS, açık kaynaklı bir işletim sistemi olarak tasarlandı ve kullanıcılarına özelleştirme, güncelleme ve kurulum gibi çok sayıda fonksiyon sunar.</p>
+	  <img src="1.png" alt="------------------------------------------------------------------------------------------------------------------------------------------">
+	  <img src="2.png" alt="------------------------------------------------------------------------------------------------------------------------------------------">
+	  <img src="3.png" alt="------------------------------------------------------------------------------------------------------------------------------------------">
     </section>
     <section id="features">
       <h2>Özellikler</h2>
@@ -29,9 +33,9 @@
     </section>
     <section id="installation">
       <h2>Kurulum</h2>
-      <p>Linux dağıtımını kurmak için aşağıdaki adımları izleyin:</p>
+      <p>QuemOS'i kurmak için aşağıdaki adımları izleyin:</p>
       <ol>
-        <li>İndirme sayfasına gitin ve dağıtımı indirin</li>
+        <li>İndirme sayfasına gitin ve QuemOS'i indirin</li>
         <li>İndirilen dosyayı USB bellek veya CD/DVD'ye yazın</li>
         <li>Başlatma sırasında USB bellek veya CD/DVD'yi kullanın</li>
         <li>Kurulum sihirbazını takip edin ve işletim sistemini kurun</li>
@@ -39,7 +43,7 @@
     </section>
   </main>
   <footer>
-    <p>Copyright © 2023 Linux Dağıtımı</p>
+    <p>Copyright © 2023 QuemOS</p>
   </footer>
 </body>
 </html>
